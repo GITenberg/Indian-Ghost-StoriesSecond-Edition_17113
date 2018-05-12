@@ -1,0 +1,30 @@
+_repo: Indian-Ghost-StoriesSecond-Edition_17113
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mukerji, S.
+    gutenberg_agent_id: '7147'
+    url: http://www.gutenberg.org/2009/agents/7147
+description: ''
+gutenberg_issued: '2005-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17113'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Ghost stories, Indic (English)'
+tableOfContents: His dead wife's photograph -- The major's lease -- The open door
+  -- What Uncle saw -- The boy who was caught -- The starving millionaire -- The bridal
+  party -- A strange incident -- What the professor saw -- The boy possessed -- The
+  examination paper -- The messenger of death.
+title: 'Indian Ghost Stories
+
+  Second Edition'
+url: http://www.gutenberg.org/ebooks/17113
